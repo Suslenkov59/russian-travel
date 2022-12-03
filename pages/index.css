@@ -1,0 +1,17 @@
+/*root*/
+@import url(../blocks/root/root.css);
+/*cover*/
+@import url(../blocks/cover/cover.css);
+/*footer*/
+@import url(../blocks/footer/footer.css);
+/*header*/
+@import url(../blocks/heder/header.css);
+/*intro*/
+@import url(../blocks/intro/intro.css);
+/*lead*/
+@import url(../blocks/lead/lead.css);
+/*photo-grid*/
+@import url(../blocks/photo-grid/photo-grid.css);
+/*places*/
+@import url(../blocks/places/places.css);
+
