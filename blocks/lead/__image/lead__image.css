@@ -1,0 +1,6 @@
+.lead__image {
+    display: grid;
+    justify-self: center;
+    width: 100%;
+    margin: 0;
+}

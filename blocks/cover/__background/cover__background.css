@@ -1,0 +1,12 @@
+.cover__background {
+    max-width: 100%;
+    opacity: 0.8;
+
+    grid-column: 1/2;
+    grid-row: 1/3;
+}
+
+.cover__background:hover {
+    opacity: 0.3;
+    transition: opacity 0.8s;
+}
