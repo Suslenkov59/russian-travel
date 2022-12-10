@@ -7,7 +7,6 @@
     background: no-repeat url("../../../images/cover-trains.jpg");
     background-size: cover;
     position: relative;
-    z-index: 1;
     aspect-ratio: 1 / 0.625;
 
     text-decoration: none;
@@ -17,10 +16,8 @@
     position: absolute;
     z-index: 1;
 
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    width: 100%;
+    height: 100%;
 
     opacity: 0.3;
     background-color: rgb(42, 44, 47);
