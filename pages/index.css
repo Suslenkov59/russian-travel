@@ -40,7 +40,7 @@
 /*place*/
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__image/place__image.css);
-@import url(../blocks/place/__paragraphs/_paragraph/place__paragraphs_paragraph.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__website/_link/place__website__link.css);
