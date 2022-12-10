@@ -12,13 +12,13 @@
     margin-top: 26px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 940px) {
     .place__paragraph {
         font-size: 16px;
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 640px) {
     .place__paragraph {
         font-size: 16px;
         margin: 0 16px 0 16px;

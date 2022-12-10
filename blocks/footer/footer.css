@@ -10,7 +10,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 600px) {
     .footer {
         margin: 64px 16px 0 16px;
         grid-template-columns: 1fr;

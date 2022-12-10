@@ -1,6 +1,6 @@
 .header__lang-link {
-    display: grid;
     text-decoration: none;
+    list-style-type: none;
 
     font-family: 'Inter', serif;
     font-style: normal;
@@ -15,3 +15,11 @@
     opacity: 0.8;
     transition: opacity 0.3s ease;
 }
+
+@media screen and (max-width: 320px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
+

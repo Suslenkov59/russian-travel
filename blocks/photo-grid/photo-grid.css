@@ -5,8 +5,9 @@
     margin: 0 48px 0 48px;
 }
 
-@media screen and (max-width: 1240px) {
+@media screen and (max-width: 1024px) {
     .photo-grid {
+        grid-template-columns: repeat(auto-fit, 300px);
         justify-content: center;
         gap: 14px;
     }
@@ -14,6 +15,7 @@
 
 @media screen and (max-width: 768px) {
     .photo-grid {
+        grid-template-columns: repeat(auto-fit, 352px);
         margin: 0 24px 0 24px;
         justify-content: center;
         gap: 16px;
@@ -22,6 +24,7 @@
 
 @media screen and (max-width: 425px) {
     .photo-grid {
+        grid-template-columns: repeat(auto-fit, 288px);
         margin: 0 16px 0 16px;
         gap: 12px;
     }

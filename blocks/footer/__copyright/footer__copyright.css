@@ -12,12 +12,12 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 425px) {
+/*@media screen and (max-width: 425px) {
     .footer {
         grid-template-columns: 1fr;
         grid-auto-flow: row;
     }
-}
+}*/
 
 @media screen and (max-width: 425px) {
     .footer__copyright {
