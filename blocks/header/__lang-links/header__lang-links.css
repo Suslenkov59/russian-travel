@@ -3,6 +3,7 @@
     grid-auto-flow: column;
     align-items: center;
     gap: 18px;
+    list-style-type: none;
 
     margin: 0;
     padding: 0;
