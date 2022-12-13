@@ -1,8 +1,6 @@
 .footer__copyright {
     text-decoration: none;
 
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
@@ -11,13 +9,6 @@
 
     color: #FFFFFF;
 }
-
-/*@media screen and (max-width: 425px) {
-    .footer {
-        grid-template-columns: 1fr;
-        grid-auto-flow: row;
-    }
-}*/
 
 @media screen and (max-width: 425px) {
     .footer__copyright {

@@ -1,8 +1,6 @@
 .place__title {
     margin: 0;
 
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
@@ -16,7 +14,7 @@
         line-height: 46px;
     }
     .place__title:first-of-type {
-        max-width: 100px;
+        max-width: 97%;
     }
 }
 

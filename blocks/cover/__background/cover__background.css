@@ -21,10 +21,10 @@
 
     opacity: 0.3;
     background-color: rgb(42, 44, 47);
+    transition: 0.8s;
 }
 
 .cover__background:hover::before{
     opacity: 0.8;
-    transition: 0.8s; /*плавно только затухает подумать*/
 }
 

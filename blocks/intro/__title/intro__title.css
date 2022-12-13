@@ -2,8 +2,6 @@
     display: grid;
     margin: 92px 0 0 0;
 
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 900;
     font-size: 54px;
     line-height: 58px;
@@ -21,5 +19,6 @@
         margin: 64px 0 0 0;
         font-size: 32px;
         line-height: 35px;
+        width: 80%;
     }
 }
