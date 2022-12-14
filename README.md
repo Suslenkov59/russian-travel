@@ -30,6 +30,8 @@
 <h2 align="center"> Ссылка на <a href="https://suslenkov59.github.io/russian-travel/" target="_blank">проект</a></h2>
 <h3 align="center">Ссылка на <a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0&t=uE0zXTSBlNM5Kcrb-0">макет Figma</a></h3> 
 
+![скрнишот](./images/Readme.png?raw=true "Optional Title")
+
 ---
 
 <div align="center">
